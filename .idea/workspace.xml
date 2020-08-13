@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="crowdfunding02-admin-webui:war exploded" />
+      <artifact name="crowdfunding02-admin-webui:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50c62944-9b97-4977-8c3e-a41bd403fc5e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="JUnit5 Test Class" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Applications/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="$USER_HOME$/Applications/maven/apache-maven-3.5.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cUidL2ZrYd8os8Z32CzzmuN9tk" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="crowdfunding01adminparent" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3085973" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.fengbin.crowd.service.impl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/crowdfunding02-admin-webui/src/main/resources/mybatis/mapper" />
+      <recent name="$PROJECT_DIR$/crowdfunding04-admin-entity/src/main/java/com/fengbin/crowd/entity" />
+      <recent name="$PROJECT_DIR$/crowdfunding02-admin-webui/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/crowdfunding02-admin-webui/src/main/webapp/css" />
+      <recent name="$PROJECT_DIR$/crowdfunding02-admin-webui/src/main/webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fengbin.crowd.mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/crowdfunding02-admin-webui/src/main/resources" />
+      <recent name="$PROJECT_DIR$/crowdfunding02-admin-webui/src/main/resources/mybatis/mapper" />
+      <recent name="$PROJECT_DIR$/crowdfunding03-admin-component/src/main/java/com/fengbin/crowd/mapper" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat8">
+    <configuration name="All in crowdfunding02adminwebui" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
+      <module name="crowdfunding01adminparent" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crowdfunding02-admin-webui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fengbin.crowd.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fengbin.crowd.test" />
+      <option name="MAIN_CLASS_NAME" value="com.fengbin.crowd.test.CrowdTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crowdfunding02-admin-webui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fengbin.crowd.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fengbin.crowd.test" />
+      <option name="MAIN_CLASS_NAME" value="com.fengbin.crowd.test.CrowdTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crowdfunding02-admin-webui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fengbin.crowd.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fengbin.crowd.test" />
+      <option name="MAIN_CLASS_NAME" value="com.fengbin.crowd.test.CrowdTest" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/crowdfunding06-common-reverse" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.9" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/crowdfunding" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="update-resources" />
+      <deployment>
+        <artifact name="crowdfunding02-admin-webui:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/crowdfunding" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_crowdfunding01adminparent" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58076" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="crowdfunding02-admin-webui:war exploded" />
+          <artifact name="crowdfunding02-admin-webui:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android JUnit.All in crowdfunding02adminwebui" />
+      <item itemvalue="JUnit.CrowdTest.test01" />
+      <item itemvalue="JUnit.CrowdTest.test02" />
+      <item itemvalue="JUnit.CrowdTest.test03" />
+      <item itemvalue="Maven.generator" />
+      <item itemvalue="Tomcat Server.Tomcat8" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CrowdTest.test03" />
+        <item itemvalue="JUnit.CrowdTest.test01" />
+        <item itemvalue="JUnit.CrowdTest.test02" />
+        <item itemvalue="Android JUnit.All in crowdfunding02adminwebui" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50c62944-9b97-4977-8c3e-a41bd403fc5e" name="Default Changelist" comment="" />
+      <created>1590589658620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590589658620</updated>
+      <workItem from="1590589660001" duration="4197000" />
+      <workItem from="1590669284853" duration="7099000" />
+      <workItem from="1590764914667" duration="4042000" />
+      <workItem from="1591022856450" duration="652000" />
+      <workItem from="1591084220675" duration="2537000" />
+      <workItem from="1591087195205" duration="15244000" />
+      <workItem from="1591191142612" duration="7948000" />
+      <workItem from="1591275645705" duration="4382000" />
+      <workItem from="1591442468607" duration="9249000" />
+      <workItem from="1591625608568" duration="4504000" />
+      <workItem from="1591709763064" duration="7517000" />
+      <workItem from="1591800417399" duration="3851000" />
+      <workItem from="1591881723677" duration="4236000" />
+      <workItem from="1592232350529" duration="2239000" />
+      <workItem from="1592312437326" duration="3910000" />
+      <workItem from="1592408185083" duration="729000" />
+      <workItem from="1592485488477" duration="979000" />
+      <workItem from="1592575106481" duration="1911000" />
+      <workItem from="1592838874460" duration="563000" />
+      <workItem from="1593087914636" duration="580000" />
+      <workItem from="1593846974971" duration="1501000" />
+      <workItem from="1593855128671" duration="597000" />
+      <workItem from="1593855863167" duration="3794000" />
+      <workItem from="1594043146818" duration="54000" />
+      <workItem from="1594216837968" duration="2458000" />
+      <workItem from="1594297504240" duration="1226000" />
+      <workItem from="1594558518251" duration="992000" />
+      <workItem from="1594559688219" duration="598000" />
+      <workItem from="1595253979201" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

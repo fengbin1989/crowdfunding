@@ -1,0 +1,8 @@
+com/fengbin/crowd/constant/AccessPassResources.class
+com/fengbin/crowd/constant/CrowdConstant.class
+com/fengbin/crowd/util/HttpUtils$1.class
+com/fengbin/crowd/util/CrowdUtil.class
+com/fengbin/crowd/exception/LoginFailedException.class
+com/fengbin/crowd/util/HttpUtils.class
+com/fengbin/crowd/util/ResultEntity.class
+com/fengbin/crowd/exception/AccessForbiddenException.class
